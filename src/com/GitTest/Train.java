@@ -14,6 +14,7 @@ public class Train {
 			
 		}
 		System.out.println(fact);
+		System.out.println("hotel");
 	}
 
 }
